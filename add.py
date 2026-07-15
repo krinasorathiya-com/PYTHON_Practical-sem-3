@@ -4,4 +4,3 @@ a=22
 b=44
 c=7.8
 result = f(a,b,c)
-print(result)
