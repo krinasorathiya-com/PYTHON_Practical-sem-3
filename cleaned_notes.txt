@@ -1,0 +1,8 @@
+5. Why would graphs be used to represent data?
+Answer: To capture complex relationships
+Explanation:
+Graphs represent data as vertices (nodes) and edges (connections), making them ideal for modeling networks, maps, and social media relationships.New Question
+New Question
+New Question
+New Question
+New Content
