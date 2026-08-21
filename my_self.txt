@@ -1,0 +1,7 @@
+Hello!
+
+My name is Krina.
+I am learning programming and AI/ML.
+I enjoy practicing C++, Java, Python, and DSA.
+
+Thank you!
